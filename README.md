@@ -1,5 +1,5 @@
 ### Hi there 
-<a href="https://github.com/yongjang"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="300px"></a>
+<a href="https://github.com/yongjang"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></a>
 <!--
 **YongJang/yongjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
